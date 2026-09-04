@@ -7,7 +7,7 @@ about:
   head: 6949fff
   archived: false
   latestVersion: v0.4.23
-  collectedAt: 2026-09-04T19:17:58Z
+  collectedAt: 2026-09-04T21:15:13Z
 timeline:
   created: 2021-11-07
   lastCommit: 2025-09-09
@@ -81,5 +81,28 @@ total:
   openIssue: 3
   commit: 120
 ---
+path: /home/runner/.x-repo/github.com/ycd/dstp
+collectedAt: 2026-09-04T21:15:14Z
+loc:
+  Go:
+    code: 695
+    comments: 39
+    blanks: 166
+    files: 17
+  Makefile:
+    code: 2
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 103
+    blanks: 46
+    files: 1
+total:
+  code: 710
+  comments: 144
+  blanks: 213
+  files: 19
 ---
 
