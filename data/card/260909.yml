@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.4.23"
   latestRelease: "v0.4.23"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:48:35Z
+  collectedAt: 2026-09-09T20:05:57Z
 timeline:
   created: 2021-11-07
   lastCommit: 2025-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-01-10
   lastPrerelease: 
 popularity:
-  star: 1297
+  star: 1298
   watcher: 9
   fork: 34
   release: 10
@@ -84,7 +84,7 @@ total:
   commit: 120
 ---
 path: /home/runner/.x-repo/github.com/ycd/dstp
-collectedAt: 2026-09-09T05:48:36Z
+collectedAt: 2026-09-09T20:05:57Z
 loc:
   Go:
     code: 695
