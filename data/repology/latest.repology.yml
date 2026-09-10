@@ -1,0 +1,114 @@
+- repo: nix_stable_25_05
+  srcname: dstp
+  visiblename: dstp
+  version: 0.4.23
+  origversion: null
+  status: newest
+  summary: Run common networking tests against your site
+  maintainers:
+    - jl@lafuente.me
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: dstp
+  visiblename: dstp
+  version: 0.4.0
+  origversion: null
+  status: outdated
+  summary: Run common networking tests against your site
+  maintainers:
+    - jl@lafuente.me
+  licenses:
+    - MIT
+- repo: aur
+  srcname: dstp
+  binname: dstp
+  visiblename: dstp
+  version: 0.4.23
+  origversion: 0.4.23-1
+  status: newest
+  summary: Run common networking tests against your site
+  maintainers:
+    - aminvakil@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: dstp-git
+  binname: dstp-git
+  visiblename: dstp-git
+  version: r120.6949fff
+  origversion: r120.6949fff-1
+  status: rolling
+  summary: Run common networking tests against your site
+  maintainers:
+    - aminvakil@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: dstp
+  visiblename: dstp
+  version: 0.4.23
+  origversion: null
+  status: newest
+  summary: Run common networking tests against your site
+- repo: homebrew
+  srcname: dstp
+  visiblename: dstp
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Run common networking tests against your site
+- repo: nix_stable_24_11
+  srcname: dstp
+  visiblename: dstp
+  version: 0.4.0
+  origversion: null
+  status: outdated
+  summary: Run common networking tests against your site
+  maintainers:
+    - jl@lafuente.me
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: dstp
+  visiblename: dstp
+  version: 0.4.23
+  origversion: null
+  status: newest
+  summary: Run common networking tests against your site
+  maintainers:
+    - jl@lafuente.me
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: dstp
+  visiblename: dstp
+  version: 0.4.23
+  origversion: null
+  status: newest
+  summary: Run common networking tests against your site
+  maintainers:
+    - jl@lafuente.me
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: dstp
+  visiblename: dstp
+  version: 0.4.23
+  origversion: null
+  status: newest
+  summary: Run common networking tests against your site
+  maintainers:
+    - jl@lafuente.me
+  licenses:
+    - MIT
+- repo: slackbuilds
+  srcname: network/dstp
+  visiblename: network/dstp
+  version: 0.4.23
+  origversion: null
+  status: newest
+  maintainers:
+    - rizitis@gmail.com
+  categories:
+    - network
