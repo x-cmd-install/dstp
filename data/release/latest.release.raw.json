@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2074614,
       "digest": null,
-      "download_count": 806,
+      "download_count": 807,
       "created_at": "2025-01-10T23:33:41Z",
       "updated_at": "2025-01-10T23:33:41Z",
       "browser_download_url": "https://github.com/ycd/dstp/releases/download/v0.4.23/dstp_0.4.23_Linux_amd64.tar.gz"
