@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 771,
       "digest": null,
-      "download_count": 256,
+      "download_count": 259,
       "created_at": "2025-01-10T23:33:42Z",
       "updated_at": "2025-01-10T23:33:42Z",
       "browser_download_url": "https://github.com/ycd/dstp/releases/download/v0.4.23/checksums.txt"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2074614,
       "digest": null,
-      "download_count": 812,
+      "download_count": 817,
       "created_at": "2025-01-10T23:33:41Z",
       "updated_at": "2025-01-10T23:33:41Z",
       "browser_download_url": "https://github.com/ycd/dstp/releases/download/v0.4.23/dstp_0.4.23_Linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1918315,
       "digest": null,
-      "download_count": 364,
+      "download_count": 370,
       "created_at": "2025-01-10T23:33:40Z",
       "updated_at": "2025-01-10T23:33:41Z",
       "browser_download_url": "https://github.com/ycd/dstp/releases/download/v0.4.23/dstp_0.4.23_Linux_arm64.tar.gz"
