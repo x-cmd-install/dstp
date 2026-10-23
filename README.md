@@ -45,12 +45,12 @@ Total: **697** lines of code across **19** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-27 | 0 | 0 | 0 | 1 | 1 | 0 |
-| last720d | 2024-11-01 | 2 | 0 | 0 | 3 | 2 | 13 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-28 | 0 | 0 | 0 | 1 | 1 | 0 |
+| last720d | 2024-11-02 | 2 | 0 | 0 | 3 | 2 | 13 |
 
 ## Release assets
 
@@ -66,6 +66,15 @@ Total: **697** lines of code across **19** files in the top 5 languages.
 | [dstp_0.4.23_Windows_amd64.zip](https://github.com/ycd/dstp/releases/download/v0.4.23/dstp_0.4.23_Windows_amd64.zip) | 2.0 MiB | `native/win/x64` |
 | [dstp_0.4.23_Windows_arm64.zip](https://github.com/ycd/dstp/releases/download/v0.4.23/dstp_0.4.23_Windows_arm64.zip) | 1.8 MiB | `native/win/arm64` |
 
+## Distribution status
+
+Reported by **11** distros on [repology.org](https://repology.org/project/dstp). **7** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.4.23` | ✅ latest |
+| Nix unstable | `0.4.23` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for dstp lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dstp` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -75,4 +84,4 @@ Install metadata for dstp lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:32:27Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:37:11Z._
