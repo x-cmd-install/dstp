@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 771,
       "digest": null,
-      "download_count": 440,
+      "download_count": 441,
       "created_at": "2025-01-10T23:33:42Z",
       "updated_at": "2025-01-10T23:33:42Z",
       "browser_download_url": "https://github.com/ycd/dstp/releases/download/v0.4.23/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2130158,
       "digest": null,
-      "download_count": 195,
+      "download_count": 196,
       "created_at": "2025-01-10T23:33:40Z",
       "updated_at": "2025-01-10T23:33:41Z",
       "browser_download_url": "https://github.com/ycd/dstp/releases/download/v0.4.23/dstp_0.4.23_Darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2089710,
       "digest": null,
-      "download_count": 483,
+      "download_count": 484,
       "created_at": "2025-01-10T23:33:40Z",
       "updated_at": "2025-01-10T23:33:41Z",
       "browser_download_url": "https://github.com/ycd/dstp/releases/download/v0.4.23/dstp_0.4.23_Darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1911711,
       "digest": null,
-      "download_count": 75,
+      "download_count": 77,
       "created_at": "2025-01-10T23:33:41Z",
       "updated_at": "2025-01-10T23:33:41Z",
       "browser_download_url": "https://github.com/ycd/dstp/releases/download/v0.4.23/dstp_0.4.23_Linux_386.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2074614,
       "digest": null,
-      "download_count": 963,
+      "download_count": 965,
       "created_at": "2025-01-10T23:33:41Z",
       "updated_at": "2025-01-10T23:33:41Z",
       "browser_download_url": "https://github.com/ycd/dstp/releases/download/v0.4.23/dstp_0.4.23_Linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1918315,
       "digest": null,
-      "download_count": 539,
+      "download_count": 540,
       "created_at": "2025-01-10T23:33:40Z",
       "updated_at": "2025-01-10T23:33:41Z",
       "browser_download_url": "https://github.com/ycd/dstp/releases/download/v0.4.23/dstp_0.4.23_Linux_arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1980297,
       "digest": null,
-      "download_count": 97,
+      "download_count": 98,
       "created_at": "2025-01-10T23:33:40Z",
       "updated_at": "2025-01-10T23:33:41Z",
       "browser_download_url": "https://github.com/ycd/dstp/releases/download/v0.4.23/dstp_0.4.23_Windows_386.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 2105410,
       "digest": null,
-      "download_count": 386,
+      "download_count": 387,
       "created_at": "2025-01-10T23:33:41Z",
       "updated_at": "2025-01-10T23:33:41Z",
       "browser_download_url": "https://github.com/ycd/dstp/releases/download/v0.4.23/dstp_0.4.23_Windows_amd64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1939531,
       "digest": null,
-      "download_count": 90,
+      "download_count": 91,
       "created_at": "2025-01-10T23:33:41Z",
       "updated_at": "2025-01-10T23:33:41Z",
       "browser_download_url": "https://github.com/ycd/dstp/releases/download/v0.4.23/dstp_0.4.23_Windows_arm64.zip"
